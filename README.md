@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @useongpark
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning each of computer languages especially JAVA, PYTHON, HTML/CSS, JavaScript as a student.
+- 👀 I’m interested in IT stuff.
+- 🌱 I’m currently learning Linux, IoT, Networking as ann IT student.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me park.useong@gmail.com
 
