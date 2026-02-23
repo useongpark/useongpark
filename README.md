@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @useongpark
-- 👀 I’m interested in IT stuff.
-- 🌱 I’m currently learning Linux, IoT, Networking as ann IT student.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I majored in Information Technology.
+- 🌱 I’m currently working as a Network Engineer at SK Telecom.
+- 💞️ I’m looking to collaborate on Data Center... etc.
 - 📫 How to reach me park.useong@gmail.com
 
 <!---
