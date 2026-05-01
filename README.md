@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @useongpark
 - 👀 I majored in Information Technology.
 - 🌱 I’m currently working as a Network Engineer at SK Telecom.
-- 💞️ I’m looking to collaborate on Data Center... etc.
 - 📫 How to reach me park.useong@gmail.com
 
 <!---
